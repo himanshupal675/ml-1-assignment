@@ -1,0 +1,73 @@
+Answer 1: 
+
+(1.) Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.
+
+(2.)  Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+
+(3.)  Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data.
+
+Answer 2:
+
+Supervised Learning : 
+                Supervised learning, also known as supervised machine learning, is a subcategory of machine learning and artificial intelligence. It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
+                The most commonly used Supervised Learning algorithms are decision tree, logistic regression, linear regression, support vector machine. The most commonly used Unsupervised Learning algorithms are k-means clustering, hierarchical clustering, and apriori algorithm.
+                
+Classification is used when the output variable is categorical i.e. with 2 or more classes. For example, yes or no, male or female, true or false, etc. In order to predict whether a mail is spam or not, we need to first teach the machine what a spam mail is.
+
+Regression algorithms are used if there is a relationship between the input variable and the output variable. It is used for the prediction of continuous variables, such as Weather forecasting, Market Trends, etc. Below are some popular Regression algorithms which come under supervised learning:
+
+
+Answer 3:
+
+Unsupervised Learning:
+                Unsupervised learning cannot be directly applied to a regression or classification problem because unlike supervised learning, we have the input data but no corresponding output data. The goal of unsupervised learning is to find the underlying structure of dataset, group that data according to similarities, and represent that dataset in a compressed format.
+Example: Suppose the unsupervised learning algorithm is given an input dataset containing images of different types of cats and dogs. The algorithm is never trained upon the given dataset, which means it does not have any idea about the features of the dataset. The task of the unsupervised learning algorithm is to identify the image features on their own. Unsupervised learning algorithm will perform this task by clustering the image dataset into the groups according to similarities between images.
+
+Answer 4:
+
+---->Artificial Intelligence is the concept of creating smart intelligent machines.
+
+---->Machine Learning is a subset of artificial intelligence that helps you build AI-driven applications.
+
+---->Deep Learning is a subset of machine learning that uses vast volumes of data and complex algorithms to train a model.
+
+---->Data Science (DS) is basically drawing insights from structured and unstructured data either by using ML or DL or without these techniques. We can even use different visualization tools, statistics, and probability to gain these insights.
+
+Answer 5:
+
+Within the field of machine learning, there are three main types of tasks: supervised, semi-supervised, and unsupervised.
+
+The main difference between these types is the level of availability of ground truth data, which is prior knowledge of what the output of the model should be for a given input.
+
+Supervised learning aims to learn a function that, given a sample of data and desired outputs, approximates a function that maps inputs to outputs.
+
+Semi-supervised learning aims to label unlabeled data points using knowledge learned from a small number of labeled data points.
+
+Unsupervised learning does not have (or need) any labeled outputs, so its goal is to infer the natural structure present within a set of data points.
+
+
+Answer 6:
+
+Training Set: The dataset that we feed our model to learn potential underlying patterns and relationships.
+
+Validation Set: The dataset that we use to understand our model's performance across different model types and hyperparameter choices.
+
+Test Set: The dataset that we use to approximate our model's unbiased accuracy in the wild.
+
+
+Answer 7:
+
+Anomaly detection techniques of unsupervised nature assume that normal data points occur considerably more frequently than anomalous data points. This assumption is used to classify data points that occur less frequently as anomalies. Unsupervised techniques assign each data point a score instead of a label.
+
+
+Answer 8:
+ 
+Below is the list of some popular unsupervised learning algorithms:
+K-means clustering.
+KNN (k-nearest neighbors)
+Hierarchal clustering.
+Anomaly detection.
+Neural Networks.
+Principle Component Analysis.
+Independent Component Analysis.
+Apriori algorithm.
